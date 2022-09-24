@@ -26,3 +26,5 @@ Leave the other settings as default and click to create.
 
 # Populate the created table with data.
 Select the created table and click on 'action' - 'create items'
+You can use json format to add data by clicking on the 'JSON' tab
+copy the data object in the index-mock.js file
